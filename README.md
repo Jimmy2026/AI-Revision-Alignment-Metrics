@@ -1,2 +1,2 @@
 # AI-Revision-Alignment-Metrics
-Code for computing behavioral AI reliance metrics from pre-AI, AI, and post-AI responses using TF-IDF cosine similarity.
+Analysis code used to compute behavioral AI-reliance metrics, including total revision, AI-directed change, and AI-attribution share based on TF-IDF cosine similarity.
